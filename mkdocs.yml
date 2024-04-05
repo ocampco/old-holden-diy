@@ -2,6 +2,7 @@ site_name: Old Holden DIY
 site_url: https://ocampco.github.io/old-holden-diy
 site_description: Resource for the old Holden H-series
 site_author: ocampco
+repo_url: https://github.com/ocampco/old-holden-diy
 
 theme:
   name: material
@@ -14,6 +15,8 @@ theme:
     - toc.integrate
   logo: ./assets/logo.png
   favicon: ./assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - ./assets/extra.css
