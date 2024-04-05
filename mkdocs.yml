@@ -1,13 +1,13 @@
-site_name: Pig Eyes DIY
-site_url: https://ocampco.github.io/pig-eyes-diy
-site_description: Resource for Toyota/Toyopet Mark II, Chaser, Cresta and Cressida
+site_name: Old Holden DIY
+site_url: https://ocampco.github.io/old-holden-diy
+site_description: Resource for the old Holden H-series
 site_author: ocampco
 
 theme:
   name: material
   palette:
     primary: white
-    accent: pink
+    accent: red
   features:
     - navigation.tabs
     - navigation.top
@@ -34,22 +34,3 @@ plugins:
 
 nav:
   - Home: index.md
-  - Suspension:
-    - ./suspension/index.md
-    - 'Front Coilovers': ./suspension/front-coilovers.md
-    - 'Steering Arms': ./suspension/steering-arms.md
-    - 'Rear Shocks': ./suspension/rear-shocks.md
-    - 'Rear Springs': ./suspension/rear-springs.md
-  - Exterior:
-    - ./exterior/index.md
-  - Electronics:
-    - ./electronics/index.md
-    - Dashboard: ./electronics/dashboard.md
-    - Wiring: ./electronics/wiring.md
-  - Interior:
-    - ./interior/index.md
-    - Seats: ./interior/seats.md
-  - 'Wheel and Tyre':
-    - ./wheel-and-tyre/index.md
-    - Tyres: ./wheel-and-tyre/tyres.md
-    - 'Refurbishing Wheels': ./wheel-and-tyre/refurbishing-wheels.md

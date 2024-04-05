@@ -1,10 +1,7 @@
-# :pig: pig-eyes-diy
+# :lion: old-holden-diy
 
-Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
-
-### Links
-
-- [Production](https://ocampco.github.io/pig-eyes-diy/)
+- Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
+- Deployed with [Github Pages](https://ocampco.github.io/old-holden-diy/)
 
 ## :runner: Running
 
@@ -17,7 +14,7 @@ Ensure you have [python](https://www.python.org/) installed
 $ pip install -r ./requirements.txt
 
 # Run app
-# Served at http://localhost:8000/pig-eyes-diy/
+# Served at http://localhost:8000/old-holden-diy/
 $ mkdocs serve
 ```
 
@@ -30,7 +27,7 @@ Ensure you have [Docker](https://www.docker.com/) installed
 $ ./auto/build
 
 # Run app
-# Served at http://localhost:8000/pig-eyes-diy/
+# Served at http://localhost:8000/old-holden-diy/
 $ ./auto/run
 ```
 
