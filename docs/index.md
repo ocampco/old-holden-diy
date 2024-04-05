@@ -1,8 +1,8 @@
 # Welcome
 
-![ocampus MX32 Cressida](./assets/home-index.jpg)
+![ocampus HZ Kingswood](./assets/home-index.jpg)
 
-Documentation for modifying the X30/X40 Toyota/Toyopet Mark II, Chaser, Cresta and Cressida. Also referred to as _'pig eyes'_ (豚目).
+Documentation for modifying the HQ, HJ, HX, HZ, WB Holden Monaro, Kingswood, Sandman, Ute, Van and Commercial. Also referred to as the _'H Series'_.
 
 The motivation for this site is to document **proven modifications.** All data has been crowdsourced and references have been provided.
 
@@ -10,23 +10,16 @@ Thank you to all who have contributed. The site is being updated on a best effor
 
 ---
 
-## Content
-
-- [Suspension](./suspension/index.md)
-- [Exterior](./exterior/index.md)
-- [Electronics](./electronics/index.md)
-- [Interior](./interior/index.md)
-- [Wheel and Tyre](./wheel-and-tyre/index.md)
-
----
-
 ## Updates
 
 !!! success "Recently completed"
-    - [Wheel and Tyre: Refurbishing Wheels](./wheel-and-tyre/refurbishing-wheels.md)
+    - Site created
 
 !!! example "Backlog"
-    - Wheel and Tyre: Wheel
-    - Wheel and Tyre: Examples
+    - Engine: Ignition
+    - Engine: Alternator
+    - Engine: Water pump
+    - Engine: Headers
+    - Cooling: Radiator
 
 ---
