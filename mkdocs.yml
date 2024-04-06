@@ -38,6 +38,5 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
-
-nav:
-  - Home: index.md
+  - blog
+  - tags
