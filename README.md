@@ -1,7 +1,8 @@
 # :lion: old-holden-diy
 
-- Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs)
-- Deployed with [Github Pages](https://ocampco.github.io/old-holden-diy/)
+[![Build status](https://github.com/ocampco/old-holden-diy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ocampco/old-holden-diy/actions/workflows/ci.yml)
+
+Documentation site using [mkdocs](https://github.com/mkdocs/mkdocs), deployed to [Github Pages](https://ocampco.github.io/old-holden-diy/)
 
 ## :runner: Running
 
@@ -31,7 +32,9 @@ $ ./auto/build
 $ ./auto/run
 ```
 
-## :ship: Deployment
+## :ship: Manual Deployment
+
+New commits on the `main` branch are automatically deployed using [Github Actions](https://github.com/ocampco/old-holden-diy/actions)
 
 ```sh
 # Deploy using local
