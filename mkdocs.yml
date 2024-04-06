@@ -12,9 +12,11 @@ theme:
     primary: white
     accent: red
   features:
-    - navigation.tabs
     - navigation.top
+    - navigation.instant
     - toc.integrate
+    - search.suggest
+    - search.highlight
   logo: ./assets/logo.png
   favicon: ./assets/logo.png
   icon:
@@ -34,6 +36,7 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
+  - search
   - git-revision-date-localized
 
 nav:
