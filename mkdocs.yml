@@ -2,7 +2,9 @@ site_name: Old Holden DIY
 site_url: https://ocampco.github.io/old-holden-diy
 site_description: Resource for the old Holden H-series
 site_author: ocampco
+
 repo_url: https://github.com/ocampco/old-holden-diy
+repo_name: ocampco/old-holden-diy
 
 theme:
   name: material
@@ -32,8 +34,7 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
-  - section-index
-  - git-revision-date
+  - git-revision-date-localized
 
 nav:
   - Home: index.md
