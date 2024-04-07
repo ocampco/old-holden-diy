@@ -38,5 +38,10 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
-  - blog
   - tags
+  - blog:
+      archive: false
+      post_url_format: "{categories}/{slug}"
+
+nav:
+  - Home: './blog/index.md'
