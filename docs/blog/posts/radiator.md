@@ -1,13 +1,14 @@
 ---
 date: 2023-11-30
 authors: [ocampus]
+slug: cooling-your-holden-253-308-radiator
 categories:
   - Cooling
 tags:
   - Cooling
 ---
 
-# Cooling your Holden V8 - Radiator
+# 🧊 Cooling your Holden 253/308 - Radiator
 
 ### [Aussie Desert Cooler](https://www.aussiedesertcooler.com.au/), [PWR](https://www.pwr.com.au/), [Race Radiators](http://raceradiators.com.au/)
 - `$$$$`

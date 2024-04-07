@@ -1,5 +1,4 @@
 ---
-title: Making a Holden 253/308 more reliable - Ignition
 date: 2024-04-04
 authors: [ocampus]
 slug: making-a-holden-253-308-more-reliable-ignition
@@ -11,9 +10,22 @@ tags:
   - Electrical
 ---
 
-# Making a Holden 253/308 more reliable - Ignition
+# ⚡️ Making a Holden 253/308 more reliable - Ignition
+
+Ignition is a primary component in keeping an engine running reliably. The most common upgrade is switching from _points_ to a _electronic_ ignition. The main reasoning is that electronic ignition is basically maintenance and adjustment free.
+
+!!! info "OEM Ignition Types"
+
+    Red (HT-HZ): Points
+    
+    Blue (WB-VH): Electronic
+
+    Black (VK-VL): Electronic
+
+## Electronic Ignition Options
 
 ### [ICE Ignition](https://www.iceignition.com/)
+<!-- more -->
 - `$$$$`
 - Most reliable
 - 🦘 Australian
@@ -23,7 +35,6 @@ tags:
 ### [MSD Ignition](https://www.holley.com/brands/msd/)
 - `$$$`
 - Newer models aren’t as reliable
-<!-- more -->
 - American
 - Rev limiter
 - Avoid ready to run
