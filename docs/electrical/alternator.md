@@ -15,6 +15,13 @@ authors: [ocampus]
 
 ## Options
 
+### Aftermaket
+- Usually 100A, 120A, 140A
+- All use an internal voltage regulator
+- Internal voltage regulator may not be serviceable or have a replacement available if it does fail
+- Slightly cheaper than Bosch
+- Reports of failure even with more reputable aftermarket brands e.g. Aeroflow
+
 ### Bosch (BXH1238A)
 - 70A
 - Factory alternator for HG-WB
@@ -30,10 +37,3 @@ authors: [ocampus]
 - Adapter plug for Bosch RE60 voltage regulator required (easily sourced)
 - Similar price to lower amperage model
 - Reliable
-
-### Aftermaket
-- Usually 100A, 120A, 140A
-- All use an internal voltage regulator
-- Internal voltage regulator may not be serviceable or have a replacement available if it does fail
-- Slightly cheaper than Bosch
-- Reports of failure even with more reputable brands e.g. Aeroflow
