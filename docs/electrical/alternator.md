@@ -11,7 +11,7 @@ authors: [ocampus]
 !!! info "Quick Info"
 	- All options are bolt in
 	- 6 and 8 cylinder engines use the same alternator
-	- Bosch is OEM
+	- OEM part is Bosch
 
 ## Standard
 

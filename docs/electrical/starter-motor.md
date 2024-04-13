@@ -8,6 +8,7 @@ authors: [ocampus]
 
 !!! info "Quick Info"
     - All options are bolt in but may require alignment shims
+    - OEM part is Bosch
 
 ## Standard
 
