@@ -13,14 +13,7 @@ authors: [ocampus]
 	- 6 and 8 cylinder engines use the same alternator
 	- Bosch is OEM
 
-## Options
-
-### Aftermaket
-- Usually 100A, 120A, 140A
-- All use an internal voltage regulator
-- Internal voltage regulator may not be serviceable or have a replacement available if it does fail
-- Slightly cheaper than Bosch
-- Reports of failure even with more reputable aftermarket brands e.g. Aeroflow
+## Standard
 
 ### Bosch (BXH1238A)
 - 70A
@@ -28,6 +21,17 @@ authors: [ocampus]
 - Easily found second hand (reconditioning recommended)
 - Voltage regulator is external and can be easily replaced
 - Reliable
+
+---
+
+## Upgrade
+
+### Aftermaket
+- Usually 100A, 120A, 140A
+- All use an internal voltage regulator
+- Internal voltage regulator may not be serviceable or have a replacement available if it does fail
+- Slightly cheaper than Bosch
+- Reports of failure even with more reputable aftermarket brands e.g. Aeroflow
 
 ### Bosch (BXH1231A)
 - 85A
