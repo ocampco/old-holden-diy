@@ -1,16 +1,7 @@
 ---
 date: 2024-04-04
 authors: [ocampus]
-slug: making-a-holden-253-308-more-reliable-ignition
-categories:
-  - Ignition
-  - Electrical
-tags:
-  - Ignition
-  - Electrical
 ---
-
-# ⚡️ Making a Holden 253/308 more reliable - Ignition
 
 Ignition is a primary component in keeping an engine running reliably. The most common upgrade is switching from _points_ to a _electronic_ ignition. The main reasoning is that electronic ignition is basically maintenance and adjustment free.
 

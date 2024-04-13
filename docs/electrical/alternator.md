@@ -1,11 +1,6 @@
 ---
 date: 2024-04-04
 authors: [ocampus]
-slug: making-a-holden-253-308-more-reliable-power
-categories:
-  - Electrical
-tags:
-  - Electrical
 ---
 
 - Stock

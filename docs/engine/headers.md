@@ -1,14 +1,7 @@
 ---
 date: 2024-04-04
 authors: [ocampus]
-slug: making-a-holden-253-308-sound-good-headers
-categories:
-  - Exhaust
-tags:
-  - Exhaust
 ---
-
-### Headers
 
 | Brand         | Price                  | Design                     | Primary | Outlet      |
 | ------------- | ---------------------- | -------------------------- | ------- | ----------- |

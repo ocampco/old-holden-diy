@@ -14,7 +14,6 @@ theme:
   features:
     - navigation.top
     - navigation.instant
-    - toc.integrate
     - search.suggest
     - search.highlight
   logo: ./assets/logo.png
@@ -27,9 +26,7 @@ extra_css:
 
 markdown_extensions:
   - toc:
-      permalink: '&#128279;'
-      permalink_class: 'toc-permalink-override'
-      toc_depth: '2-3'
+      toc_depth: 0
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_alt
   - admonition
@@ -39,9 +36,3 @@ plugins:
   - search
   - git-revision-date-localized
   - tags
-  - blog:
-      archive: false
-      post_url_format: "{categories}/{slug}"
-
-nav:
-  - Home: './blog/index.md'

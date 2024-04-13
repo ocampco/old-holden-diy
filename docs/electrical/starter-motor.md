@@ -1,11 +1,6 @@
 ---
 date: 2024-04-04
 authors: [ocampus]
-slug: making-a-holden-253-308-more-reliable-starter-motor
-categories:
-  - Electrical
-tags:
-  - Electrical
 ---
 
 - `$` JAS SNB010 - VN-VT 304 compact style, reliable, less power usage
