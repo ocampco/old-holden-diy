@@ -20,6 +20,8 @@ theme:
   favicon: ./assets/logo.png
   icon:
     repo: fontawesome/brands/github
+    admonition:
+      warning: material/key
 
 extra_css:
   - ./assets/extra.css
