@@ -13,9 +13,9 @@ Thank you to all who have contributed. The site is being updated on a best effor
 ## Updates
 
 !!! success "Recently completed"
-    - Various articles added
+    - Alternator
 
 !!! example "Backlog"
-    - Properly write articles
+    - Starter
 
 ---
